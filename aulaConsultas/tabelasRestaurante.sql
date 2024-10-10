@@ -129,4 +129,3 @@ insert into itens_vendas (produto_id, vendas_id, item_valor, item_quantidade, it
 
 
 
-
